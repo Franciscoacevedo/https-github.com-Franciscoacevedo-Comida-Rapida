@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "": true
+    },
+    "dotnet.preferCSharpExtension": true
+}
